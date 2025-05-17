@@ -1,4 +1,12 @@
 # Hi there 👋, I'm Sudip Shrestha
+   ,     ,
+  (\____/)
+   (_oo_)
+     (O)
+   __||__    \)
+[]/______\[] /
+/ \______/ \/
+
 
 Welcome to my GitHub profile!
 
@@ -9,7 +17,7 @@ Welcome to my GitHub profile!
 - 🌱 I’m learning LLMs, GEN AI, AI Models, Statistics, DSA, Cloud Platforms.
 - 👯 I’m looking to collaborate on ML/AI, Data Science
 - 💬 Ask me about [Your Expertise Areas]
-- 📫 How to reach me: [Your Email or Social Links]
+- 📫 How to reach me: sudipshrestha.cn@gmail.com
 - ⚡ Fun fact: [Something interesting about you]
 
 ---
