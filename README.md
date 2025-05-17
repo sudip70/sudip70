@@ -1,15 +1,4 @@
 # Hi there 👋, I'm Sudip Shrestha
-  ┌───────────────┐
-  │  ,     ,      │
-  │ (\____/)      │
-  │  (_oo_)       │
-  │    (O)        │
-  │  __||__   \)  │
-  │ []/______\[] /│
-  │ / \______/ \/│
-  │/    /__\     │
-  │(\   /____\   │
-  └───────────────┘
 
 
 Welcome to my GitHub profile!
@@ -39,9 +28,10 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Visitors
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudip70&show_icons=true&theme=radical)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sudip70.sudip70)
+
 
 ---
 
