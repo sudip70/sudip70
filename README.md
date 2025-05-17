@@ -11,7 +11,8 @@ Welcome to my GitHub profile!
 - 👯 I’m looking to collaborate on ML/AI, Data Science
 - 💬 Ask me about [Your Expertise Areas]
 - 📫 How to reach me: sudipshrestha.cn@gmail.com
-- ⚡ Fun fact: [Something interesting about you]
+- ⚡ Fun fact: The number **42** is famously known as *“the answer to life, the universe, and everything”* from Douglas Adams’ book *The Hitchhiker’s Guide to the Galaxy*.  
+That’s why many programmers set `random_state=42` — to keep their code both reproducible and a little cosmic! ✨🚀
 
 ---
 
@@ -25,12 +26,6 @@ Welcome to my GitHub profile!
 | Bash/Shell scripting     | REST APIs                    | Jupyter, VSCode            |
 
 
-
----
-
-## 📈 Visitors
-
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sudip70.sudip70)
 
 
 ---
