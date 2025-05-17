@@ -9,12 +9,12 @@ Welcome to my GitHub profile!
 - 🔭 I’m currently working on Stockify Project.
 - 🌱 I’m learning LLMs, GEN AI, AI Models, Statistics, DSA, Cloud Platforms.
 - 👯 I’m looking to collaborate on ML/AI, Data Science
-- 💬 Ask me about [Your Expertise Areas]
+- 💬 Ask me about Python, SQL, ML Models
 - 📫 How to reach me: sudipshrestha.cn@gmail.com
-- ⚡ Fun fact: The number **42** is famously known as *“the answer to life, the universe, and everything”* from Douglas Adams’ book *The Hitchhiker’s Guide to the Galaxy*.  
-That’s why many programmers set `random_state=42` — to keep their code both reproducible and a little cosmic! ✨🚀
+- ⚡ Fun fact: I write both **code** and **literature**. 📚💻
 
 ---
+
 
 
 ## 🛠️ Skills & Technologies
