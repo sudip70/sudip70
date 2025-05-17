@@ -38,8 +38,9 @@ That’s why many programmers set `random_state=42` — to keep their code both 
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YourLinkedIn](https://www.linkedin.com/in/sudipshrestha-58/))   
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sudipshrestha.cn@gmail.com)
+📫 **Email**: [sudipshrestha.cn@gmail.com](mailto:sudipshrestha.cn@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/sudipshrestha-58](https://www.linkedin.com/in/sudipshrestha-58/)
+
 
 ---
 
