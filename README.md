@@ -32,7 +32,7 @@ Welcome to my GitHub profile!
 ### 🤓 Did you know?
 
 The number **42** is famously known as *“the answer to life, the universe, and everything”* from Douglas Adams’ book *The Hitchhiker’s Guide to the Galaxy*.  
-That’s why many programmers set `random_state=42` — to keep their code both reproducible and a little cosmic! ✨🚀
+That’s why many programmers set `random_state=42` to keep their code both reproducible and a little cosmic! ✨🚀
 
 ---
 
