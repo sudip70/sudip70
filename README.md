@@ -11,7 +11,7 @@ Welcome to my GitHub profile!
 - 👯 I’m looking to collaborate on **ML/AI**, **Data Science**, **Data Analytics** projects & **Co-Op**.
 - 💬 Ask me about **Python**, **SQL**, **ML Models**.
 - 📫 How to reach me: **sudipshrestha.cn@gmail.com**
-- ⚡ Fun fact: I write both **code** and **literature**. 📚💻
+- ⚡ Fun fact: I read and write both **code** and **literature**. 📚💻
 
 ---
 
