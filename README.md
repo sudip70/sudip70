@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Stockify Project**.
+- 🔭 I’m currently working on **Stockify Project** and **Solar Eclipse Image Alignment for NASA Citizen Science Project**.
 - 🌱 I’m learning **LLMs**, **GEN AI**, **AI Models**, **Statistics**, **DSA**, **Cloud Platforms**.
 - 👯 I’m looking to collaborate on **ML/AI**, **Data Science**, **Data Analytics** projects & **Co-Op**.
 - 💬 Ask me about **Python**, **SQL**, **ML Models**.
