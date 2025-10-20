@@ -10,7 +10,7 @@ Welcome to my GitHub profile!
 - 🌱 I’m learning **LLMs**, **GEN AI**, **AI Models**, **Statistics**, **DSA**, **Cloud Platforms**.
 - 👯 I’m looking to collaborate on **ML/AI**, **Data Science**, **Data Analytics** projects & **Co-Op**.
 - 💬 Ask me about **Python**, **SQL**, **ML Models**.
-- 📫 How to reach me: **sudipshrestha.cn@gmail.com**
+- 📫 How to reach me: **sudipshrestha.ca@gmail.com**
 - ⚡ Fun fact: I read and write both **code** and **literature**. 📚💻
 
 ---
