@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **MarketMind Project** and **Solar Eclipse Image Alignment for NASA Citizen Science Project**.
+- 🔭 I’m currently working on **MarketMind Project** and **Global Stats Monitoring Project**.
 - 🌱 I’m learning **LLMs**, **GEN AI**, **AI Models**, **Statistics**, **DSA**, **Cloud Platforms**.
 - 👯 I’m looking to collaborate on **ML/AI**, **Data Science**, **Data Analytics** projects & **Co-Op**.
 - 💬 Ask me about **Python**, **SQL**, **ML Models**.
@@ -23,7 +23,7 @@ Welcome to my GitHub profile!
 |--------------------------|-----------------------------|---------------------------|
 | Python, SQL,             | PySpark, Django, Flask       | Git, Docker, Linux, GCP    |
 | C#, HTML                 | TensorFlow, Scikit-learn     | Hadoop, Spark, Airflow     |
-| Bash/Shell scripting     | REST APIs                    | Jupyter, VSCode            |
+| JavaScript               | REST APIs                    | Jupyter, VSCode            |
 
 
 
