@@ -31,8 +31,9 @@ Welcome to my GitHub profile!
 
 ### 🤓 Did you know?
 
-The number **42** is famously known as *“the answer to life, the universe, and everything”* from Douglas Adams’ book *The Hitchhiker’s Guide to the Galaxy*.  
-That’s why many programmers set `random_state=42` to keep their code both reproducible and a little cosmic! ✨🚀
+Kids with birthdays in the first quarter of the year are more likely to make it to the National Hockey League.
+
+Why? Because of something called the Relative Age Effect, youth hockey groups kids by age using a cutoff (usually January 1). So kids born in January–March are slightly older, bigger, and stronger than their peers growing up… and that early advantage can snowball all the way to the pros. 🧊🥅
 
 ---
 
