@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **MarketMind Project** and **Global Stats Monitoring Project**.
+- 🔭 I’m currently working on **Foresight Project** and **FraudShield**.
 - 🌱 I’m learning **LLMs**, **GEN AI**, **AI Models**, **Statistics**, **DSA**, **Cloud Platforms**.
 - 👯 I’m looking to collaborate on **ML/AI**, **Data Science**, **Data Analytics** projects & **Co-Op**.
 - 💬 Ask me about **Python**, **SQL**, **ML Models**.
