@@ -27,7 +27,7 @@
 > Mission: turning messy data into "oh, THAT'S why" moments.
 ```
 
-- 🔭 Currently building **[Fiscally](financial literacy application) and **[Mosaic](Mosaic with your image) **Stay Tuned**
+- 🔭 Currently building **[Fiscally]**(Financial literacy application) and **[Mosaic]**(Mosaic with your image) **Stay Tuned**
 - 🌱 Leveling up in **LLMs**, **Gen AI**, **Statistics**, **DSA**, and **Cloud Platforms**
 - 👯 Open to collaborating on **ML/AI**, **Data Science**, and **Data Analytics** projects & **Full-Time** opportunities
 - 💬 Ask me about **Python**, **SQL**, and **ML models**, or movie recommendations 
@@ -57,6 +57,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 
 ### Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -67,6 +68,8 @@
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 
 </div>
 
