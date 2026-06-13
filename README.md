@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Sudip!;AI%2FML+Engineer+%2F+Data+Analyst+%F0%9F%9B%A0%EF%B8%8F;ML+%2F+AI+Builder+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%88;Fluent+in+Python%2C+SQL+%26+plot+twists+%F0%9F%93%9A)](https://github.com/sudip70)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Sudip+Shrestha!;AI%2FML+Engineer+%2F+Data+Analyst+%F0%9F%9B%A0%EF%B8%8F;ML+%2F+AI+Builder+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%88;Fluent+in+Python%2C+SQL+%26+plot+twists+%F0%9F%93%9A)](https://github.com/sudip70)
 
 <!-- Contact badges -->
 <a href="https://sudip70.github.io/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
