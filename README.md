@@ -1,5 +1,5 @@
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Sudip%20Shrestha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%2F%20Data%20Engineer%20%E2%80%A2%20ML%20%26%20AI%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=212&section=header&text=Sudip%20Shrestha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%2F%20Data%20Engineer%20%E2%80%A2%20ML%20%26%20AI%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 <a href="https://sudip70.github.io/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/sudipshrestha-58/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sudipshrestha.ca@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Toronto,_Canada-🍁-D80621?style=for-the-badge" alt="Toronto, Canada"/>
+<img src="https://img.shields.io/badge/Toronto,_Canada-D80621?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Toronto, Canada"/>
 
 <img src="https://komarev.com/ghpvc/?username=sudip70&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
@@ -88,16 +88,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
+
+Watch the snake munch through my contribution graph:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudip70&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudip70&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" height="165" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=sudip70&theme=tokyonight&hide_border=true&background=00000000" height="165" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudip70&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="95%" alt="Contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudip70/sudip70/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudip70/sudip70/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/sudip70/sudip70/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" width="100%">
+</picture>
 
 </div>
 
