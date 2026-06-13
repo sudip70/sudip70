@@ -1,5 +1,4 @@
-<!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=212&section=header&text=Sudip%20Shrestha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%2F%20Data%20Analyst%20%E2%80%A2%20ML%20%26%20AI%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
+<img src="./assets/banner.svg" alt="Sudip Shrestha" width="100%"/>
 
 <div align="center">
 
@@ -136,5 +135,3 @@ I'm always up for talking **data**, **ML**, **books**, or **why your model is ov
 
 </div>
 
-<!-- Animated wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
