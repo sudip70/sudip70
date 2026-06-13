@@ -1,4 +1,5 @@
-<img src="./assets/banner.svg" alt="Sudip Shrestha" width="100%"/>
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=212&section=header&text=Sudip%20Shrestha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%2F%20Data%20Analyst%20%E2%80%A2%20ML%20%26%20AI%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
@@ -22,15 +23,15 @@
 ┌──(sudip㉿toronto)-[~/portfolio]
 └─$ whoami
 
-> AI/ML Engineer / Data Analyst who debugs code by day and plot holes by night.
-> Currently shipping: Foresight 🔮 & FraudShield 🛡️
+> AI/ML Engineer / Data Analyst who writes and debugs code.
+> Currently shipping: Fiscally  & Mosaic 🛡️
 > Mission: turning messy data into "oh, THAT'S why" moments.
 ```
 
-- 🔭 Currently building **[Foresight](https://github.com/sudip70/foresight)** (financial forecasting) and **[FraudShield](https://github.com/sudip70/fraudshield)** (fraud prediction)
+- 🔭 Currently building **[Fiscally](financial literacy application) and **[Mosaic](Mosaic with your image) **Stay Tuned**
 - 🌱 Leveling up in **LLMs**, **Gen AI**, **Statistics**, **DSA**, and **Cloud Platforms**
-- 👯 Open to collaborating on **ML/AI**, **Data Science**, and **Data Analytics** projects & **Co-Op** opportunities
-- 💬 Ask me about **Python**, **SQL**, and **ML models**, or book recommendations 📚
+- 👯 Open to collaborating on **ML/AI**, **Data Science**, and **Data Analytics** projects & **Full-Time** opportunities
+- 💬 Ask me about **Python**, **SQL**, and **ML models**, or movie recommendations 
 - ⚡ Fun fact: I read and write both **code** and **literature**. Both have bugs, only one has editors
 
 ---
@@ -57,7 +58,6 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 
 ### Tools & Platforms
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -135,3 +135,5 @@ I'm always up for talking **data**, **ML**, **books**, or **why your model is ov
 
 </div>
 
+<!-- Animated wave footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
