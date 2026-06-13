@@ -1,10 +1,10 @@
 <!-- Animated wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=212&section=header&text=Sudip%20Shrestha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%2F%20Data%20Engineer%20%E2%80%A2%20ML%20%26%20AI%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=212&section=header&text=Sudip%20Shrestha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%2F%20Data%20Analyst%20%E2%80%A2%20ML%20%26%20AI%20%E2%80%A2%20Data%20Science&descAlignY=55&descSize=18" width="100%"/>
 
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Sudip!;Software+%2F+Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;ML+%2F+AI+Builder+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%88;Fluent+in+Python%2C+SQL+%26+plot+twists+%F0%9F%93%9A)](https://github.com/sudip70)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B+I'm+Sudip!;AI%2FML+Engineer+%2F+Data+Analyst+%F0%9F%9B%A0%EF%B8%8F;ML+%2F+AI+Builder+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%88;Fluent+in+Python%2C+SQL+%26+plot+twists+%F0%9F%93%9A)](https://github.com/sudip70)
 
 <!-- Contact badges -->
 <a href="https://sudip70.github.io/"><img src="https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
@@ -12,7 +12,6 @@
 <a href="mailto:sudipshrestha.ca@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Toronto,_Canada-D80621?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Toronto, Canada"/>
 
-<img src="https://komarev.com/ghpvc/?username=sudip70&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -24,7 +23,7 @@
 ┌──(sudip㉿toronto)-[~/portfolio]
 └─$ whoami
 
-> Software / Data Engineer who debugs code by day and plot holes by night.
+> AI/ML Engineer / Data Analyst who debugs code by day and plot holes by night.
 > Currently shipping: Foresight 🔮 & FraudShield 🛡️
 > Mission: turning messy data into "oh, THAT'S why" moments.
 ```
@@ -132,7 +131,7 @@ I'm always up for talking **data**, **ML**, **books**, or **why your model is ov
 
 <br>
 
-⭐️ *From [Sudip Shrestha](https://github.com/sudip70), powered by coffee ☕ and curiosity 🔍*
+⭐️ *From [Sudip Shrestha](https://github.com/sudip70)*
 
 </div>
 
