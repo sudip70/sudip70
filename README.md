@@ -24,7 +24,7 @@
 
 > AI/ML Engineer / Data Analyst who writes and debugs code.
 > Currently shipping: Fiscally  & Mosaic 🛡️
-> Mission: turning messy data into "oh, THAT'S why" moments.
+> Mission: turning data into 'Stories'
 ```
 
 - 🔭 Currently building **[Fiscally]**(Financial literacy application) and **[Mosaic]**(Mosaic with your image) **Stay Tuned**
